@@ -18,4 +18,4 @@ def detect_deepfake(image_path: str) -> str:
 
     return result
 
-detect_deepfake("../Images/dog_ai_image.jpg")
+detect_deepfake("../shared/images/dog_ai_image.jpg")
